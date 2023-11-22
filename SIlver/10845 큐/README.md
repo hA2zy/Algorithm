@@ -1,4 +1,4 @@
-# [Bronze IV] 삼각형 외우기
+# [Silver IV] 큐
 <hr>
 
 [문제 링크] (https://www.acmicpc.net/problem/10845)
